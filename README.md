@@ -1,6 +1,6 @@
 # 🌾 Smart Agriculture ML
 
-Este projeto utiliza técnicas de Machine Learning para oferecer recomendações inteligentes de culturas agrícolas. O sistema analisa variáveis cruciais do solo e clima — como níveis de Nitrogênio (N), Fósforo (P), Potássio (K), Temperatura, Umidade, pH e Pluviosidade — para determinar a cultura mais eficiente para o cultivo.
+Este projeto utiliza técnicas de Machine Learning para oferecer recomendações inteligentes de culturas agrícolas. O sistema analisa variáveis cruciais do solo e clima, como níveis de Nitrogênio (N), Fósforo (P), Potássio (K), Temperatura, Umidade, pH e Pluviosidade, para determinar a cultura mais eficiente para o cultivo.
 
 ## 🧠 Abordagem Técnica
 O projeto foi estruturado para suportar um fluxo de tomada de decisão baseado em dados:
