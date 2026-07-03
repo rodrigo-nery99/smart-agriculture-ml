@@ -1,0 +1,19 @@
+# Ambientes Virtuais (NUNCA subir para o GitHub)
+venv/
+env/
+.env
+
+# Cache e binários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais do VS Code
+.vscode/
+
+# Checkpoints do Jupyter/Colab
+.ipynb_checkpoints/
+
+# Sistema Operacional (Arquivos ocultos do Windows/Mac)
+Thumbs.db
+.DS_Store
